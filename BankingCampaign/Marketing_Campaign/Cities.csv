@@ -1,0 +1,532 @@
+City_Code,City_Name,State_Code,State_Name,Region_Code,Region_Name
+C1,Henderson,S1,Kentucky,3,South
+C2,Los Angeles,S2,California,4,West
+C3,Fort Lauderdale,S3,Florida,3,South
+C4,Concord,S4,North Carolina,3,South
+C5,Seattle,S5,Washington,4,West
+C6,Fort Worth,S6,Texas,1,Central
+C7,Madison,S7,Wisconsin,1,Central
+C8,West Jordan,S8,Utah,4,West
+C9,San Francisco,S2,California,4,West
+C10,Fremont,S9,Nebraska,1,Central
+C11,Philadelphia,S10,Pennsylvania,2,East
+C12,Orem,S8,Utah,4,West
+C13,Houston,S6,Texas,1,Central
+C14,Richardson,S6,Texas,1,Central
+C15,Naperville,S11,Illinois,1,Central
+C16,Melbourne,S3,Florida,3,South
+C17,Eagan,S12,Minnesota,1,Central
+C18,Westland,S13,Michigan,1,Central
+C19,Dover,S14,Delaware,2,East
+C20,New Albany,S15,Indiana,1,Central
+C21,New York City,S16,New York,2,East
+C22,Troy,S16,New York,2,East
+C23,Chicago,S11,Illinois,1,Central
+C24,Gilbert,S17,Arizona,4,West
+C25,Springfield,S18,Virginia,3,South
+C26,Jackson,S13,Michigan,1,Central
+C27,Memphis,S19,Tennessee,3,South
+C28,Decatur,S20,Alabama,3,South
+C29,Durham,S4,North Carolina,3,South
+C30,Columbia,S21,South Carolina,3,South
+C31,Rochester,S12,Minnesota,1,Central
+C32,Minneapolis,S12,Minnesota,1,Central
+C33,Portland,S22,Oregon,4,West
+C34,Saint Paul,S12,Minnesota,1,Central
+C35,Aurora,S23,Colorado,4,West
+C36,Charlotte,S4,North Carolina,3,South
+C37,Orland Park,S11,Illinois,1,Central
+C38,Urbandale,S24,Iowa,1,Central
+C39,Columbus,S25,Ohio,2,East
+C40,Bristol,S19,Tennessee,3,South
+C41,Wilmington,S14,Delaware,2,East
+C42,Bloomington,S11,Illinois,1,Central
+C43,Phoenix,S17,Arizona,4,West
+C44,Roseville,S2,California,4,West
+C45,Independence,S26,Missouri,1,Central
+C46,Pasadena,S2,California,4,West
+C47,Newark,S25,Ohio,2,East
+C48,Franklin,S7,Wisconsin,1,Central
+C49,Scottsdale,S17,Arizona,4,West
+C50,San Jose,S2,California,4,West
+C51,Edmond,S27,Oklahoma,1,Central
+C52,Carlsbad,S28,New Mexico,4,West
+C53,San Antonio,S6,Texas,1,Central
+C54,Monroe,S29,Louisiana,3,South
+C55,Fairfield,S30,Connecticut,2,East
+C56,Grand Prairie,S6,Texas,1,Central
+C57,Redlands,S2,California,4,West
+C58,Hamilton,S25,Ohio,2,East
+C59,Westfield,S31,New Jersey,2,East
+C60,Akron,S25,Ohio,2,East
+C61,Denver,S23,Colorado,4,West
+C62,Dallas,S6,Texas,1,Central
+C63,Whittier,S2,California,4,West
+C64,Saginaw,S13,Michigan,1,Central
+C65,Medina,S25,Ohio,2,East
+C66,Dublin,S25,Ohio,2,East
+C67,Detroit,S13,Michigan,1,Central
+C68,Tampa,S3,Florida,3,South
+C69,Santa Clara,S2,California,4,West
+C70,Lakeville,S12,Minnesota,1,Central
+C71,San Diego,S2,California,4,West
+C72,Brentwood,S2,California,4,West
+C73,Chapel Hill,S4,North Carolina,3,South
+C74,Morristown,S31,New Jersey,2,East
+C75,Cincinnati,S25,Ohio,2,East
+C76,Inglewood,S2,California,4,West
+C77,Tamarac,S3,Florida,3,South
+C78,Colorado Springs,S23,Colorado,4,West
+C79,Belleville,S31,New Jersey,2,East
+C80,Taylor,S13,Michigan,1,Central
+C81,Lakewood,S31,New Jersey,2,East
+C82,Arlington,S18,Virginia,3,South
+C83,Arvada,S23,Colorado,4,West
+C84,Hackensack,S31,New Jersey,2,East
+C85,Saint Petersburg,S3,Florida,3,South
+C86,Long Beach,S2,California,4,West
+C87,Hesperia,S2,California,4,West
+C88,Murfreesboro,S19,Tennessee,3,South
+C89,Layton,S8,Utah,4,West
+C90,Austin,S6,Texas,1,Central
+C91,Lowell,S32,Massachusetts,2,East
+C92,Manchester,S30,Connecticut,2,East
+C93,Harlingen,S6,Texas,1,Central
+C94,Tucson,S17,Arizona,4,West
+C95,Quincy,S11,Illinois,1,Central
+C96,Pembroke Pines,S3,Florida,3,South
+C97,Des Moines,S5,Washington,4,West
+C98,Peoria,S11,Illinois,1,Central
+C99,Las Vegas,S34,Nevada,4,West
+C100,Warwick,S35,Rhode Island,2,East
+C101,Miami,S3,Florida,3,South
+C102,Huntington Beach,S2,California,4,West
+C103,Richmond,S1,Kentucky,3,South
+C104,Louisville,S23,Colorado,4,West
+C105,Lawrence,S32,Massachusetts,2,East
+C106,Canton,S13,Michigan,1,Central
+C107,New Rochelle,S16,New York,2,East
+C108,Gastonia,S4,North Carolina,3,South
+C109,Jacksonville,S3,Florida,3,South
+C110,Auburn,S16,New York,2,East
+C111,Norman,S27,Oklahoma,1,Central
+C112,Park Ridge,S11,Illinois,1,Central
+C113,Amarillo,S6,Texas,1,Central
+C114,Lindenhurst,S16,New York,2,East
+C115,Huntsville,S6,Texas,1,Central
+C116,Fayetteville,S37,Arkansas,3,South
+C117,Costa Mesa,S2,California,4,West
+C118,Parker,S23,Colorado,4,West
+C119,Atlanta,S33,Georgia,3,South
+C120,Gladstone,S26,Missouri,1,Central
+C121,Great Falls,S38,Montana,4,West
+C122,Lakeland,S3,Florida,3,South
+C123,Montgomery,S20,Alabama,3,South
+C124,Mesa,S17,Arizona,4,West
+C125,Green Bay,S7,Wisconsin,1,Central
+C126,Anaheim,S2,California,4,West
+C127,Marysville,S5,Washington,4,West
+C128,Salem,S22,Oregon,4,West
+C129,Laredo,S6,Texas,1,Central
+C130,Grove City,S25,Ohio,2,East
+C131,Dearborn,S13,Michigan,1,Central
+C132,Warner Robins,S33,Georgia,3,South
+C133,Vallejo,S2,California,4,West
+C134,Mission Viejo,S2,California,4,West
+C135,Rochester Hills,S13,Michigan,1,Central
+C136,Plainfield,S31,New Jersey,2,East
+C137,Sierra Vista,S17,Arizona,4,West
+C138,Vancouver,S5,Washington,4,West
+C139,Cleveland,S25,Ohio,2,East
+C140,Tyler,S6,Texas,1,Central
+C141,Burlington,S4,North Carolina,3,South
+C142,Waynesboro,S18,Virginia,3,South
+C143,Chester,S10,Pennsylvania,2,East
+C144,Cary,S4,North Carolina,3,South
+C145,Palm Coast,S3,Florida,3,South
+C146,Mount Vernon,S16,New York,2,East
+C147,Hialeah,S3,Florida,3,South
+C148,Oceanside,S16,New York,2,East
+C149,Evanston,S11,Illinois,1,Central
+C150,Trenton,S13,Michigan,1,Central
+C151,Cottage Grove,S12,Minnesota,1,Central
+C152,Bossier City,S29,Louisiana,3,South
+C153,Lancaster,S2,California,4,West
+C154,Asheville,S4,North Carolina,3,South
+C155,Lake Elsinore,S2,California,4,West
+C156,Omaha,S9,Nebraska,1,Central
+C157,Edmonds,S5,Washington,4,West
+C158,Santa Ana,S2,California,4,West
+C159,Milwaukee,S7,Wisconsin,1,Central
+C160,Florence,S1,Kentucky,3,South
+C161,Lorain,S25,Ohio,2,East
+C162,Linden,S31,New Jersey,2,East
+C163,Salinas,S2,California,4,West
+C164,New Brunswick,S31,New Jersey,2,East
+C165,Garland,S6,Texas,1,Central
+C166,Norwich,S30,Connecticut,2,East
+C167,Alexandria,S18,Virginia,3,South
+C168,Toledo,S25,Ohio,2,East
+C169,Farmington,S28,New Mexico,4,West
+C170,Riverside,S2,California,4,West
+C171,Torrance,S2,California,4,West
+C172,Round Rock,S6,Texas,1,Central
+C173,Boca Raton,S3,Florida,3,South
+C174,Virginia Beach,S18,Virginia,3,South
+C175,Murrieta,S2,California,4,West
+C176,Olympia,S5,Washington,4,West
+C177,Washington,S41,District of Columbia,2,East
+C178,Jefferson City,S26,Missouri,1,Central
+C179,Saint Peters,S26,Missouri,1,Central
+C180,Rockford,S11,Illinois,1,Central
+C181,Brownsville,S6,Texas,1,Central
+C182,Yonkers,S16,New York,2,East
+C183,Oakland,S2,California,4,West
+C184,Clinton,S40,Maryland,2,East
+C185,Encinitas,S2,California,4,West
+C186,Roswell,S33,Georgia,3,South
+C187,Jonesboro,S37,Arkansas,3,South
+C188,Antioch,S2,California,4,West
+C189,Homestead,S3,Florida,3,South
+C190,La Porte,S15,Indiana,1,Central
+C191,Lansing,S13,Michigan,1,Central
+C192,Cuyahoga Falls,S25,Ohio,2,East
+C193,Reno,S34,Nevada,4,West
+C194,Harrisonburg,S18,Virginia,3,South
+C195,Escondido,S2,California,4,West
+C196,Royal Oak,S13,Michigan,1,Central
+C197,Rockville,S40,Maryland,2,East
+C198,Coral Springs,S3,Florida,3,South
+C199,Buffalo,S16,New York,2,East
+C200,Boynton Beach,S3,Florida,3,South
+C201,Gulfport,S36,Mississippi,3,South
+C202,Fresno,S2,California,4,West
+C203,Greenville,S4,North Carolina,3,South
+C204,Macon,S33,Georgia,3,South
+C205,Cedar Rapids,S24,Iowa,1,Central
+C206,Providence,S35,Rhode Island,2,East
+C207,Pueblo,S23,Colorado,4,West
+C208,Deltona,S3,Florida,3,South
+C209,Murray,S1,Kentucky,3,South
+C210,Middletown,S30,Connecticut,2,East
+C211,Freeport,S16,New York,2,East
+C212,Pico Rivera,S2,California,4,West
+C213,Provo,S8,Utah,4,West
+C214,Pleasant Grove,S8,Utah,4,West
+C215,Smyrna,S33,Georgia,3,South
+C216,Parma,S25,Ohio,2,East
+C217,Mobile,S20,Alabama,3,South
+C218,New Bedford,S32,Massachusetts,2,East
+C219,Irving,S6,Texas,1,Central
+C220,Vineland,S31,New Jersey,2,East
+C221,Glendale,S17,Arizona,4,West
+C222,Niagara Falls,S16,New York,2,East
+C223,Thomasville,S4,North Carolina,3,South
+C224,Westminster,S2,California,4,West
+C225,Coppell,S6,Texas,1,Central
+C226,Pomona,S2,California,4,West
+C227,North Las Vegas,S34,Nevada,4,West
+C228,Allentown,S10,Pennsylvania,2,East
+C229,Tempe,S17,Arizona,4,West
+C230,Laguna Niguel,S2,California,4,West
+C231,Bridgeton,S31,New Jersey,2,East
+C232,Everett,S32,Massachusetts,2,East
+C233,Watertown,S16,New York,2,East
+C234,Appleton,S7,Wisconsin,1,Central
+C235,Bellevue,S5,Washington,4,West
+C236,Allen,S6,Texas,1,Central
+C237,El Paso,S6,Texas,1,Central
+C238,Grapevine,S6,Texas,1,Central
+C239,Carrollton,S6,Texas,1,Central
+C240,Kent,S5,Washington,4,West
+C241,Lafayette,S29,Louisiana,3,South
+C242,Tigard,S22,Oregon,4,West
+C243,Skokie,S11,Illinois,1,Central
+C244,Plano,S6,Texas,1,Central
+C245,Suffolk,S18,Virginia,3,South
+C246,Indianapolis,S15,Indiana,1,Central
+C247,Bayonne,S31,New Jersey,2,East
+C248,Greensboro,S4,North Carolina,3,South
+C249,Baltimore,S40,Maryland,2,East
+C250,Kenosha,S7,Wisconsin,1,Central
+C251,Olathe,S42,Kansas,1,Central
+C252,Tulsa,S27,Oklahoma,1,Central
+C253,Redmond,S22,Oregon,4,West
+C254,Raleigh,S4,North Carolina,3,South
+C255,Muskogee,S27,Oklahoma,1,Central
+C256,Meriden,S30,Connecticut,2,East
+C257,Bowling Green,S1,Kentucky,3,South
+C258,South Bend,S15,Indiana,1,Central
+C259,Spokane,S5,Washington,4,West
+C260,Keller,S6,Texas,1,Central
+C261,Port Orange,S3,Florida,3,South
+C262,Medford,S22,Oregon,4,West
+C263,Charlottesville,S18,Virginia,3,South
+C264,Missoula,S38,Montana,4,West
+C265,Apopka,S3,Florida,3,South
+C266,Reading,S10,Pennsylvania,2,East
+C267,Broomfield,S23,Colorado,4,West
+C268,Paterson,S31,New Jersey,2,East
+C269,Oklahoma City,S27,Oklahoma,1,Central
+C270,Chesapeake,S18,Virginia,3,South
+C271,Lubbock,S6,Texas,1,Central
+C272,Johnson City,S19,Tennessee,3,South
+C273,San Bernardino,S2,California,4,West
+C274,Leominster,S32,Massachusetts,2,East
+C275,Bozeman,S38,Montana,4,West
+C276,Perth Amboy,S31,New Jersey,2,East
+C277,Ontario,S2,California,4,West
+C278,Rancho Cucamonga,S2,California,4,West
+C279,Moorhead,S12,Minnesota,1,Central
+C280,Mesquite,S6,Texas,1,Central
+C281,Stockton,S2,California,4,West
+C282,Ormond Beach,S3,Florida,3,South
+C283,Sunnyvale,S2,California,4,West
+C284,York,S10,Pennsylvania,2,East
+C285,College Station,S6,Texas,1,Central
+C286,Saint Louis,S26,Missouri,1,Central
+C287,Manteca,S2,California,4,West
+C288,San Angelo,S6,Texas,1,Central
+C289,Salt Lake City,S8,Utah,4,West
+C290,Knoxville,S19,Tennessee,3,South
+C291,Little Rock,S37,Arkansas,3,South
+C292,Lincoln Park,S13,Michigan,1,Central
+C293,Marion,S25,Ohio,2,East
+C294,Littleton,S23,Colorado,4,West
+C295,Bangor,S44,Maine,2,East
+C296,Southaven,S36,Mississippi,3,South
+C297,New Castle,S15,Indiana,1,Central
+C298,Midland,S13,Michigan,1,Central
+C299,Sioux Falls,S45,South Dakota,1,Central
+C300,Fort Collins,S23,Colorado,4,West
+C301,Clarksville,S19,Tennessee,3,South
+C302,Sacramento,S2,California,4,West
+C303,Thousand Oaks,S2,California,4,West
+C304,Malden,S32,Massachusetts,2,East
+C305,Holyoke,S32,Massachusetts,2,East
+C306,Albuquerque,S28,New Mexico,4,West
+C307,Sparks,S34,Nevada,4,West
+C308,Coachella,S2,California,4,West
+C309,Elmhurst,S11,Illinois,1,Central
+C310,Passaic,S31,New Jersey,2,East
+C311,North Charleston,S21,South Carolina,3,South
+C312,Newport News,S18,Virginia,3,South
+C313,Jamestown,S16,New York,2,East
+C314,Mishawaka,S15,Indiana,1,Central
+C315,La Quinta,S2,California,4,West
+C316,Tallahassee,S3,Florida,3,South
+C317,Nashville,S19,Tennessee,3,South
+C318,Bellingham,S5,Washington,4,West
+C319,Woodstock,S11,Illinois,1,Central
+C320,Haltom City,S6,Texas,1,Central
+C321,Wheeling,S11,Illinois,1,Central
+C322,Summerville,S21,South Carolina,3,South
+C323,Hot Springs,S37,Arkansas,3,South
+C324,Englewood,S23,Colorado,4,West
+C325,Las Cruces,S28,New Mexico,4,West
+C326,Hoover,S20,Alabama,3,South
+C327,Frisco,S6,Texas,1,Central
+C328,Vacaville,S2,California,4,West
+C329,Waukesha,S7,Wisconsin,1,Central
+C330,Bakersfield,S2,California,4,West
+C331,Pompano Beach,S3,Florida,3,South
+C332,Corpus Christi,S6,Texas,1,Central
+C333,Redondo Beach,S2,California,4,West
+C334,Orlando,S3,Florida,3,South
+C335,Orange,S31,New Jersey,2,East
+C336,Lake Charles,S29,Louisiana,3,South
+C337,Highland Park,S11,Illinois,1,Central
+C338,Hempstead,S16,New York,2,East
+C339,Noblesville,S15,Indiana,1,Central
+C340,Apple Valley,S12,Minnesota,1,Central
+C341,Mount Pleasant,S21,South Carolina,3,South
+C342,Sterling Heights,S13,Michigan,1,Central
+C343,Eau Claire,S7,Wisconsin,1,Central
+C344,Pharr,S6,Texas,1,Central
+C345,Billings,S38,Montana,4,West
+C346,Gresham,S22,Oregon,4,West
+C347,Chattanooga,S19,Tennessee,3,South
+C348,Meridian,S46,Idaho,4,West
+C349,Bolingbrook,S11,Illinois,1,Central
+C350,Maple Grove,S12,Minnesota,1,Central
+C351,Woodland,S2,California,4,West
+C352,Missouri City,S6,Texas,1,Central
+C353,Pearland,S6,Texas,1,Central
+C354,San Mateo,S2,California,4,West
+C355,Grand Rapids,S13,Michigan,1,Central
+C356,Visalia,S2,California,4,West
+C357,Overland Park,S42,Kansas,1,Central
+C358,Temecula,S2,California,4,West
+C359,Yucaipa,S2,California,4,West
+C360,Revere,S32,Massachusetts,2,East
+C361,Conroe,S6,Texas,1,Central
+C362,Tinley Park,S11,Illinois,1,Central
+C363,Dubuque,S24,Iowa,1,Central
+C364,Dearborn Heights,S13,Michigan,1,Central
+C365,Santa Fe,S28,New Mexico,4,West
+C366,Hickory,S4,North Carolina,3,South
+C367,Carol Stream,S11,Illinois,1,Central
+C368,Saint Cloud,S12,Minnesota,1,Central
+C369,North Miami,S3,Florida,3,South
+C370,Plantation,S3,Florida,3,South
+C371,Port Saint Lucie,S3,Florida,3,South
+C372,Rock Hill,S21,South Carolina,3,South
+C373,Odessa,S6,Texas,1,Central
+C374,West Allis,S7,Wisconsin,1,Central
+C375,Chula Vista,S2,California,4,West
+C376,Manhattan,S42,Kansas,1,Central
+C377,Altoona,S10,Pennsylvania,2,East
+C378,Thornton,S23,Colorado,4,West
+C379,Champaign,S11,Illinois,1,Central
+C380,Texarkana,S37,Arkansas,3,South
+C381,Edinburg,S6,Texas,1,Central
+C382,Baytown,S6,Texas,1,Central
+C383,Greenwood,S15,Indiana,1,Central
+C384,Woonsocket,S35,Rhode Island,2,East
+C385,Superior,S7,Wisconsin,1,Central
+C386,Bedford,S6,Texas,1,Central
+C387,Covington,S5,Washington,4,West
+C388,Broken Arrow,S27,Oklahoma,1,Central
+C389,Miramar,S3,Florida,3,South
+C390,Hollywood,S3,Florida,3,South
+C391,Deer Park,S6,Texas,1,Central
+C392,Wichita,S42,Kansas,1,Central
+C393,Mcallen,S6,Texas,1,Central
+C394,Iowa City,S24,Iowa,1,Central
+C395,Boise,S46,Idaho,4,West
+C396,Cranston,S35,Rhode Island,2,East
+C397,Port Arthur,S6,Texas,1,Central
+C398,Citrus Heights,S2,California,4,West
+C399,The Colony,S6,Texas,1,Central
+C400,Daytona Beach,S3,Florida,3,South
+C401,Bullhead City,S17,Arizona,4,West
+C402,Portage,S15,Indiana,1,Central
+C403,Fargo,S47,North Dakota,1,Central
+C404,Elkhart,S15,Indiana,1,Central
+C405,San Gabriel,S2,California,4,West
+C406,Margate,S3,Florida,3,South
+C407,Sandy Springs,S33,Georgia,3,South
+C408,Mentor,S25,Ohio,2,East
+C409,Lawton,S27,Oklahoma,1,Central
+C410,Hampton,S18,Virginia,3,South
+C411,Rome,S16,New York,2,East
+C412,La Crosse,S7,Wisconsin,1,Central
+C413,Lewiston,S46,Idaho,4,West
+C414,Hattiesburg,S36,Mississippi,3,South
+C415,Danville,S2,California,4,West
+C416,Logan,S8,Utah,4,West
+C417,Waterbury,S30,Connecticut,2,East
+C418,Athens,S33,Georgia,3,South
+C419,Avondale,S17,Arizona,4,West
+C420,Marietta,S33,Georgia,3,South
+C421,Yuma,S17,Arizona,4,West
+C422,Wausau,S7,Wisconsin,1,Central
+C423,Pasco,S5,Washington,4,West
+C424,Oak Park,S11,Illinois,1,Central
+C425,Pensacola,S3,Florida,3,South
+C426,League City,S6,Texas,1,Central
+C427,Gaithersburg,S40,Maryland,2,East
+C428,Lehi,S8,Utah,4,West
+C429,Tuscaloosa,S20,Alabama,3,South
+C430,Moreno Valley,S2,California,4,West
+C431,Georgetown,S1,Kentucky,3,South
+C432,Loveland,S23,Colorado,4,West
+C433,Chandler,S17,Arizona,4,West
+C434,Helena,S38,Montana,4,West
+C435,Kirkwood,S26,Missouri,1,Central
+C436,Waco,S6,Texas,1,Central
+C437,Frankfort,S11,Illinois,1,Central
+C438,Bethlehem,S10,Pennsylvania,2,East
+C439,Grand Island,S9,Nebraska,1,Central
+C440,Woodbury,S12,Minnesota,1,Central
+C441,Rogers,S37,Arkansas,3,South
+C442,Clovis,S28,New Mexico,4,West
+C443,Jupiter,S3,Florida,3,South
+C444,Santa Barbara,S2,California,4,West
+C445,Cedar Hill,S6,Texas,1,Central
+C446,Norfolk,S9,Nebraska,1,Central
+C447,Draper,S8,Utah,4,West
+C448,Ann Arbor,S13,Michigan,1,Central
+C449,La Mesa,S2,California,4,West
+C450,Pocatello,S46,Idaho,4,West
+C451,Holland,S13,Michigan,1,Central
+C452,Milford,S30,Connecticut,2,East
+C453,Buffalo Grove,S11,Illinois,1,Central
+C454,Lake Forest,S2,California,4,West
+C455,Redding,S2,California,4,West
+C456,Chico,S2,California,4,West
+C457,Utica,S16,New York,2,East
+C458,Conway,S37,Arkansas,3,South
+C459,Cheyenne,S48,Wyoming,4,West
+C460,Owensboro,S1,Kentucky,3,South
+C461,Caldwell,S46,Idaho,4,West
+C462,Kenner,S29,Louisiana,3,South
+C463,Nashua,S39,New Hampshire,2,East
+C464,Bartlett,S19,Tennessee,3,South
+C465,Redwood City,S2,California,4,West
+C466,Lebanon,S19,Tennessee,3,South
+C467,Santa Maria,S2,California,4,West
+C468,Des Plaines,S11,Illinois,1,Central
+C469,Longview,S5,Washington,4,West
+C470,Hendersonville,S19,Tennessee,3,South
+C471,Waterloo,S24,Iowa,1,Central
+C472,Cambridge,S32,Massachusetts,2,East
+C473,Palatine,S11,Illinois,1,Central
+C474,Beverly,S32,Massachusetts,2,East
+C475,Eugene,S22,Oregon,4,West
+C476,Oxnard,S2,California,4,West
+C477,Renton,S5,Washington,4,West
+C478,Glenview,S11,Illinois,1,Central
+C479,Delray Beach,S3,Florida,3,South
+C480,Commerce City,S23,Colorado,4,West
+C481,Texas City,S6,Texas,1,Central
+C482,Wilson,S4,North Carolina,3,South
+C483,Rio Rancho,S28,New Mexico,4,West
+C484,Goldsboro,S4,North Carolina,3,South
+C485,Montebello,S2,California,4,West
+C486,El Cajon,S2,California,4,West
+C487,Beaumont,S6,Texas,1,Central
+C488,West Palm Beach,S3,Florida,3,South
+C489,Abilene,S6,Texas,1,Central
+C490,Normal,S11,Illinois,1,Central
+C491,Saint Charles,S26,Missouri,1,Central
+C492,Camarillo,S2,California,4,West
+C493,Hillsboro,S22,Oregon,4,West
+C494,Burbank,S2,California,4,West
+C495,Modesto,S2,California,4,West
+C496,Garden City,S42,Kansas,1,Central
+C497,Atlantic City,S31,New Jersey,2,East
+C498,Longmont,S23,Colorado,4,West
+C499,Davis,S2,California,4,West
+C500,Morgan Hill,S2,California,4,West
+C501,Clifton,S31,New Jersey,2,East
+C502,Sheboygan,S7,Wisconsin,1,Central
+C503,East Point,S33,Georgia,3,South
+C504,Rapid City,S45,South Dakota,1,Central
+C505,Andover,S32,Massachusetts,2,East
+C506,Kissimmee,S3,Florida,3,South
+C507,Shelton,S30,Connecticut,2,East
+C508,Danbury,S30,Connecticut,2,East
+C509,Sanford,S3,Florida,3,South
+C510,San Marcos,S6,Texas,1,Central
+C511,Greeley,S23,Colorado,4,West
+C512,Mansfield,S6,Texas,1,Central
+C513,Elyria,S25,Ohio,2,East
+C514,Twin Falls,S46,Idaho,4,West
+C515,Coral Gables,S3,Florida,3,South
+C516,Romeoville,S11,Illinois,1,Central
+C517,Marlborough,S32,Massachusetts,2,East
+C518,Laurel,S40,Maryland,2,East
+C519,Bryan,S6,Texas,1,Central
+C520,Pine Bluff,S37,Arkansas,3,South
+C521,Aberdeen,S45,South Dakota,1,Central
+C522,Hagerstown,S40,Maryland,2,East
+C523,East Orange,S31,New Jersey,2,East
+C524,Arlington Heights,S11,Illinois,1,Central
+C525,Oswego,S11,Illinois,1,Central
+C526,Coon Rapids,S12,Minnesota,1,Central
+C527,San Clemente,S2,California,4,West
+C528,San Luis Obispo,S2,California,4,West
+C529,Springdale,S37,Arkansas,3,South
+C530,Lodi,S2,California,4,West
+C531,Mason,S25,Ohio,2,East
